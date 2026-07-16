@@ -13,7 +13,7 @@
 
 - 🔭 I'm currently working on **a Agent project**
 
-- 🌱 I'm currently learning **Golang and Java and Python**
+- 🌱 I'm currently learning **Golang**
 
 - 📫 How to reach me **usshin988226@163.com**
 
