@@ -1,4 +1,4 @@
-# Hi 👋, I'm wuwuwu
+# Hi 👋, I'm wuwu
 
 - 🔭 I'm currently working on **a Agent project**
 
