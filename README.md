@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+icey!;" />
 </h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=icey1287&label=Profile%20Views&color=0e75b6&style=flat-square" alt="icey1287 profile views" />
-</div>
 
 ---
 
